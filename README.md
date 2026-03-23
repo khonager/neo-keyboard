@@ -1,3 +1,3 @@
 # neo-keyboard
 
-An implementation of the Neo keyboard layout for iOS with some minor tweaks to make it work an a small touch screen.
+An implementation of the Neo and Bone keyboard layouts for iOS with some minor tweaks to make them work on a small touch screen.
